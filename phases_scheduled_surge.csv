@@ -1,0 +1,6 @@
+unix_ts,run_time_s,phase,target_users
+1793754970.221,0.0,baseline,10
+1793755210.474,240.3,pre_event,10
+1793755270.812,300.6,spike,17
+1793755361.162,390.9,decay,40
+1793755536.188,566.0,recovery,12
